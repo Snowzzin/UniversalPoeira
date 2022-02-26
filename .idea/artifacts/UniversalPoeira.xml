@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UniversalPoeira">
+    <output-path>$USER_HOME$/Desktop/rankup/plugins</output-path>
+    <root id="archive" name="UniversalPoeira.jar">
+      <element id="module-output" name="UniversalPoeira" />
+    </root>
+  </artifact>
+</component>

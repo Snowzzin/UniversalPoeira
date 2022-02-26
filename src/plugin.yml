@@ -1,0 +1,5 @@
+name: UniversalPoeiras
+main: me.snow.poeira.Terminal
+version: 1
+commands:
+  poeiras:

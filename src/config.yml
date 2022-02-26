@@ -1,0 +1,30 @@
+Info:
+  PoeirasPorBloco: 2
+
+Permissões:
+  Admin: 'poeiras.admin'
+
+Mensagens:
+  ComprouItem: '&6GG &7{player} &acomprou {item} &ana Loja de Poeiras'
+
+Loja:
+  Item1:
+    Nome: "§bPicareta" #Nome do item
+    Comando: "give {target} diamond_pickaxe" #Comando que sera executado ao comprar o Item
+    Preço: 2500 #Preço do Item
+    Lore: #Lore do Item
+      - ''
+      - 'Picareta Suprema'
+      - ''
+      - 'Preço: {valor}'
+      - ''
+    Slot: 11 #Slot que ira ficar o Item no menu da loja
+    Material: '278:0' #ID:DATA - Icone do Item no menu da loja
+
+
+Formatação:
+  - ''
+  - 'K'
+  - 'M'
+  - 'B'
+  - 'T'
